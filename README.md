@@ -66,3 +66,6 @@ Get an API key from the settings.
 
 Replace your-huggingface-api-key in the script.
 
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/a11d80c4-9c62-405e-a943-0effe125acc8)
